@@ -1,3 +1,4 @@
+<% unless enhanced_cart.empty? %>
 <section class="cart-show">
 
   <header class="page-header">
@@ -50,3 +51,9 @@
   </div>
 
 </section>
+
+<% else %>
+
+<div class="alert"><h1>Your cart is currently empty, you can browse through our collection <%= link_to 'here', :root %>.<h1></div>
+
+<% end %>
