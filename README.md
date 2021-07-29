@@ -1,6 +1,13 @@
 # Jungle
 
-A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example. Database was setup with PostgreSQL. Implemented Stripe testing card API to simulate transaction.
+
+## Screenshots
+
+!["Main Display"](https://github.com/henriw22/jungle-rails/blob/master/docs/Main_Display.png?raw=true)
+!["User Login"](https://github.com/henriw22/jungle-rails/blob/master/docs/User_Login.png?raw=true)
+!["Cart"](https://github.com/henriw22/jungle-rails/blob/master/docs/Cart.png?raw=true)
+!["Order Confirmation"](https://github.com/henriw22/jungle-rails/blob/master/docs/Order_confirmation.png?raw=true)
 
 ## Additional Steps for Apple M1 Machines
 
