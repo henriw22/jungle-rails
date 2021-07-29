@@ -2,6 +2,25 @@
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example. Database was setup with PostgreSQL. Implemented Stripe testing card API to simulate transaction.
 
+## Project Goals
+
+* To become familiar with Ruby and the Rails framework
+* Learn how to navigate an existing code-base
+* Use existing code style and approach to implement new features in unfamiliar territory
+* Apply previous learning tactics to research and become familiar with a new paradigm, language and framework
+* A simulation of the real world where feature and bug-fix requests are listed instead of step-by-step instructions on how to implement a solution
+
+## Functional Requirements
+
+* Users should be able to view all the products and display the products based on categories.
+* Users can see the details of the product
+* Users can add the product into cart and see them on the checkout page
+* Users can modify the cart, add/reduce quantity and proceed to payment
+* Users receives a summary of the order after the transaction went through
+* Admin users can see the list of the product items available on the app
+* Admin users can add or remove product from the app
+* Admin users can add categories to group the product items
+
 ## Screenshots
 
 !["Main Display"](https://github.com/henriw22/jungle-rails/blob/master/docs/Main_Display.png?raw=true)
